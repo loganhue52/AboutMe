@@ -47,5 +47,6 @@ Some**one** cannot do everything, but every**one** can do something.
 [Elon Musk][2]<br>
 <img src="https://github.com/loganhue52/AboutMe/blob/main/img/elon.jpg" width="200px" height="200px"><br>
 [Bill Gates][3]<br>
+<img src="https://github.com/loganhue52/AboutMe/blob/main/img/bill.jpeg" width="200px" height="200px"><br>
 
 
