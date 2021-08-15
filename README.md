@@ -49,4 +49,11 @@ Some**one** cannot do everything, but every**one** can do something.
 [Bill Gates][3]<br>
 <kbd><img src="https://github.com/loganhue52/AboutMe/blob/main/img/bill.jpeg" width="200px" height="200px"></kbd><br>
 
+## Favorite Terms
 
+| Terms | Definitions |
+|:-| ---- |
+| Sublime |
+| Wienerschnitzel |
+| Flap Jacks |
+| Abstraction |
