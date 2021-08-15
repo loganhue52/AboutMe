@@ -51,9 +51,9 @@ Some**one** cannot do everything, but every**one** can do something.
 
 ## Favorite Terms
 
-| Terms | Definitions |
-|:-| ---- |
-| Sublime |
-| Wienerschnitzel |
-| Flap Jacks |
-| Abstraction |
+| Terms | Definitions | My Meaning |
+|:-|:----:| ---:|
+| Sublime | Elevated or lofty in thought | Of such excellence\grandeur |
+| Wienerschnitzel | A type of schnitzel made of a thin, breaded, pan-fried veal cutlet | Funny german word |
+| Flapjack | A baked bar made from rolled oats, fat, brown sugar and syrup | Pancake |
+| Abstraction | The process of filtering out the characteristics of patterns that we don't need | Simplifying |
