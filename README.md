@@ -43,6 +43,7 @@ Some**one** cannot do everything, but every**one** can do something.
 ## Persons of Interest
 
 [Morgan Freeman][1]<br>
+<img src="https://github.com/loganhue52/AboutMe/img/morgan.jpg"><br>
 [Elon Musk][2]<br>
 [Bill Gates][3]<br>
 
