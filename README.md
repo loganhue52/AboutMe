@@ -18,12 +18,6 @@ My hobbies include:
 - Playing piano and guitar
 - Cars
 
-My nighttime routine includes:
-
-1. Brush my teeth
-2. Put away clean clothes
-3. Find a video or podcast to fall asleep to
-
 ## My Philosophy
 
 *Life is too short to worry about the little things, yet it is the little things that make the biggest difference*
