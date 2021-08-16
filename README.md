@@ -15,7 +15,7 @@ Hobbies
 My hobbies include:
 
 - Video Games
-- Developing and breaking code
+- Playing piano and guitar
 - Cars
 
 My nighttime routine includes:
